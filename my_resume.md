@@ -11,14 +11,15 @@ Objective
 Summary of Qualifications
 -------------------------
 
-* Scrum Master 활동으로 스크럼팀의 운영 지원 경험 및 코칭 경험이 많음
+* Scrum팀을 지원하는 Scrum Master로서 운영 경험과 코칭을 통한 성공 경험을 다수 보유하고 있음
 * Application 개발 Product Owner(로 쓰고 Project Manager로 읽는) 경험으로 
-  * requiement 를 정의하고 우선순위를 정할 수 있음
-  * 개발 외부팀과 협의하고 프로젝트를 전체 일정을 관리할 수 있음
+  * 비즈니스 문제점을 분석하고 요구사항을 명확히 식별하여 우선순위에 따라 요구사항 관리가 가능함
+  * 프로젝트 일정 관리가 가능하고, 유관 부서와 협업을 통한 커뮤니케이션 역량을 보유함
+  * 업무 지식 및 경험을 바탕으로 업무 특성을 고려한 설계 방향성 제시 및 지속적인 개선책 수립이 가능함
 * 13년차 휴대폰 개발자
 * 8년차 Android 전문가
-* 5년 feature phone 개발 경험
-* 여러 application 개발을 통한 여러 domain 지식(달력 체계, Health, Car connectivity)* 
+* 다수의 Feature Phone 개발/양산 경험 (XX년 ~ XX년, 총 5년)
+* 다양한 Application 개발을 통한 여러 도메인 지식 보유(Email protocol, 달력 체계, Health, MirrorLink protocol)
 
 Technical Profile
 -----------------
@@ -41,7 +42,7 @@ Certifications and Education
 ----------------------------
 
 * C / Java 중급 역량 인증(LG전자)
-* Carnegie Mellon University Architect 과정 파견(2016년 5월~6월)
+* Carnegie Mellon University Architect 과정 수료(2016년 5월~6월)
 
 Professional Experience
 -----------------------
