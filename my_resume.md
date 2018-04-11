@@ -1,22 +1,20 @@
 이상준
 ===============
 
-_010-xxxx-4216 / nansjlee@gmail.com_
-
-_LG전자 융복합개발센터 책임연구원(2005년 입사, 현재 13년차)_
+_LG전자 융복합개발센터 책임연구원(2005년 입사, 13년차)_
 
 Objective
 ---------
 
-Software Engineer 로서 기술을 습득하고 기술을 숙련할 수 있는 새로운 기회를 준비합니다.
+Software Engineer 로서 새로운 기술을 습득하고 숙련할 수 있는 새로운 기회를 준비합니다.
 
 Summary of Qualifications
 -------------------------
 
 * Scrum팀을 지원하는 Scrum Master로서 활동 경험과 코칭을 통한 성공 경험 있음
-* Application 개발 Product Owner(~~로 쓰고 Project Manager로 읽는~~) 경험으로 
+* Application 개발 Product Owner 경험으로 
   - 비즈니스 문제점을 분석하고 요구사항을 명확히 식별하여 우선순위에 따라 요구사항 관리가 가능함
-  - 프로젝트 일정을 수립하고, 유관 부서와 협업을 통해 커뮤니케이션 역량을 보유함
+  - 프로젝트 일정을 수립하고, 유관 부서와 협업할 수 있는 커뮤니케이션 역량을 보유함
   - 업무 지식 및 경험을 바탕으로 업무 특성을 고려한 설계 방향성 제시 및 지속적인 개선책 수립이 가능함
 * Mobile 단말 / Application 개발 경력 13년(2005년 ~ 현재)
 * Android Application 개발 경력 8년(2010년 ~ 현재)
